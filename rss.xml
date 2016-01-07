@@ -4,11 +4,18 @@
         <description><![CDATA[TOASTERIA anders-einzigartig-gemütlich]]></description>
         <link>https://thegrid.ai/toasteria/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 17:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 17:27:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/toasteria/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[RESERVIERUNG]]></title>
+            <description><![CDATA[<h1>RESERVIERUNG</h1>]]></description>
+            <link>https://thegrid.ai/toasteria/reservierung/index.html</link>
+            <guid isPermaLink="false">4a071c44-cd8a-4c05-ba94-66d724418912</guid>
+            <pubDate>Thu, 07 Jan 2016 17:26:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[OÖ Nachrichten Bericht über Toasteria]]></title>
-            <description><![CDATA[<article><h1>OÖ Nachrichten Bericht über Toasteria</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d80909165cb0e64ec77e9224c9330218f0cf9e75.png"></article>]]></description>
+            <description><![CDATA[<article><h1>OÖ Nachrichten Bericht über Toasteria</h1><p>Vielen herzlichen Dank an Thomas Streif der OÖ Nachrichten für den tollen Artikel in den OÖ Nachrichten!  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d80909165cb0e64ec77e9224c9330218f0cf9e75.png"></article>]]></description>
             <link>https://thegrid.ai/toasteria/oo-nachrichten-bericht-uber-toasteria/index.html</link>
             <guid isPermaLink="false">1ae1ff6f-0b9d-4b54-a96c-94beb635e33c</guid>
             <pubDate>Thu, 07 Jan 2016 17:22:11 GMT</pubDate>
