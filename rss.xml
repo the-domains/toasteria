@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Toasteria]]></title>
         <description><![CDATA[Toasteria]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/toasteria/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 17:07:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 17:10:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/toasteria/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GRANDER Wasser in der Toasteria]]></title>
+            <description><![CDATA[<article><h1>GRANDER Wasser in der Toasteria</h1><p>Ab sofort servieren wir für unsere Gäste stilles & prickelndes Grander-Wasser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b034f399192e8ac51e0e8a66ac0bf08dcb312506.jpg"></article>]]></description>
+            <link>https://thegrid.ai/toasteria/grander-wasser/index.html</link>
+            <guid isPermaLink="false">71d4d68b-8086-4fd2-acd1-6fe7f2448bc9</guid>
+            <pubDate>Thu, 07 Jan 2016 17:09:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DANKE!]]></title>
             <description><![CDATA[<article><h1>DANKE!</h1><p>Für das überragende Jahr 2015</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1031a61583e074f3d39034e50cace397a100f0fe.jpg"></article>]]></description>
-            <link>undefineddanke/index.html</link>
+            <link>https://thegrid.ai/toasteria/danke/index.html</link>
             <guid isPermaLink="false">f99cf144-9b3a-49fb-ae98-1db3100a9088</guid>
             <pubDate>Thu, 07 Jan 2016 17:07:32 GMT</pubDate>
         </item>
