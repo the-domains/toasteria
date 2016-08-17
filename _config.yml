@@ -1,20 +1,4 @@
-name: Toasteria
-favicon: null
-layout_spectrum: 0.64413
 typography_spectrum: 0.7532969012390822
-title: TOASTERIA anders-einzigartig-gemütlich
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#4c3632'
@@ -26,4 +10,21 @@ color:
   lightness: 0.24136686325073242
   saturation: 0.460914374794811
   rhythmicContrast: 0.22058666055090725
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.64413
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Toasteria
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: TOASTERIA anders-einzigartig-gemütlich
+description: einzigartig - gemütlich - anders
 purpose: []
