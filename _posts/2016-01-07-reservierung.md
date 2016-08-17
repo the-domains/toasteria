@@ -1,30 +1,26 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-01-07T17:26:47.932Z'
-dateModified: '2016-01-07T17:26:33.911Z'
-title: RESERVIERUNG
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-17T19:41:50.944Z'
 sourcePath: _posts/2016-01-07-reservierung.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-17T19:41:50.368Z'
+title: ''
+publisher: {}
+description: Reservierung
+inLanguage: null
+inNav: true
+starred: true
 url: reservierung/index.html
 _type: Article
 
 ---
 Reservierung
 
-Wir bitten euch eure Reservierung 
+Wir bitten euch eure Reservierung
 
 **[online aufzugeben.][0]**
 
