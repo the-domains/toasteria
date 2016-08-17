@@ -28,15 +28,15 @@ cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: Toasteria
-favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.7532969012390822
+typography_spectrum: 0.3243728
 layout_spectrum: 1
